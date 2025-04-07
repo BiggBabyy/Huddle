@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    
+}
+.container{
+    background-color: blueviolet;
+    background-image: url(./asset/bg-desktop.svg);
+    min-height: 100vh;
+  padding: 0 80px;
+}
+.header{
+    height: 100px;
+ display: flex;   
+ justify-content: space-between;
+ align-items: center;
+}
+.navigations a{
+    color: white;
+    text-decoration: none;
+    margin: 0 30px;
+}
+a:hover{
+    color: hotpink;
+    font-size: large;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.contentimage{
+    img{
+        width: 700px;
+    }
+}
+.contenttext{
+    max-width: 500px
+    
+    
+    
+    
+    
+    
+    
+    ;
+}

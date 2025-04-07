@@ -1,0 +1,27 @@
+.first{
+    height: 100px;
+    background-color: hotpink;
+}
+.second{
+    height:100px;
+    background-color: limegreen;
+}
+.third{
+    height: 100px;
+    background-color: yellowgreen;
+}
+.fourth{
+    height: 100px;
+    background-color: rgb(70, 6, 70);
+}
+.fifth{
+    height: 100px;
+    background-color:indigo;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr 2.5fr;
+    grid-template-rows: 
+
+}
